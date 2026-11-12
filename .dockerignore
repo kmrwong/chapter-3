@@ -1,2 +1,5 @@
+.venv
 myvenv
-__pycache__/*
+.git
+__pycache__
+.pytest_cache
