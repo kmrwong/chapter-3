@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: hello-joker
-        image: varunmallya/hello-joker:v1
+        image: kmrwong88/hello-joker:v1
         ports:
         - containerPort: 8083
   replicas: 3
